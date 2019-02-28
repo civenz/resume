@@ -105,6 +105,6 @@
 
 ![演员的自我修养](https://civenz.github.io/images/performer.jpg)
 
-<p align="center">我的微信小程序<br><img src="https://civenz.github.io/images/weixin_app.jpg"></p>
+<p align="center">我的微信小程序<br><img src="https://civenz.github.io/images/weixin_app.jpg?"></p>
 
 <script src='https://civenz.github.io/github.js'></script>
